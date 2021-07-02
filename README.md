@@ -1,1 +1,1 @@
-[Blog](https://world.hey.com/dick) | [Twitter](https://twitter.com/d3d1rty) | [Instagram](https://instagram.com/dickdavis843) | [LinkedIn](https://linkedin.com/in/rvdavis)
+[Blog](https://world.hey.com/dick) | [Keybase](https://keybase.io/d3d1rty) | [Twitter](https://twitter.com/d3d1rty) | [Lobsters](https://lobste.rs/u/d3d1rty) | [Hacker News](https://news.ycombinator.com/user?id=d3d1rty)
