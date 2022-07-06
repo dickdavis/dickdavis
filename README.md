@@ -1,4 +1,4 @@
-My name is Dick, and I'm into software development, jiujitsu, weightlifting, and reading.
+My name is Dick, and I'm into software development, reading, and baseball.
 
 I post occasionally on my [Blog](https://dick.codes) and [Twitter](https://twitter.com/d3d1rty).
 
