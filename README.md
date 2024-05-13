@@ -1,4 +1,4 @@
-Hello! My name is Dick Davis, and I'm a software engineer specializing in full-stack web development using Ruby on Rails and JavaScript.
+Hello! My name is Dick Davis, and I'm a senior software engineer specializing in full-stack web development using Ruby on Rails and JavaScript.
 
 I post occasionally on my [Blog](https://dick.codes).
 
