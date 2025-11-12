@@ -1,5 +1,7 @@
-Hello! My name is Dick Davis, and I'm a senior software engineer specializing in full-stack web development using Ruby on Rails and JavaScript.
+Hello! My name is Dick Davis, and I'm a senior software engineer.
 
-I post occasionally on my [Blog](https://dick.codes).
+I enjoy building cool stuff with Ruby, JavaScript, Go, Elixir, and Lua.
 
-If you want to support my blogging or open-source work, you can [sponsor me](https://github.com/sponsors/dickdavis).
+From front-end to back-end to infrastructure, I work across the stack.
+
+Check out my [blog](https://dick.codes) if you want to learn more about me.
